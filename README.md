@@ -28,26 +28,26 @@ This project is a full-stack social media application that allows users to creat
 
 1. Clone the repository:
 
-https://github.com/mohammadmurtuza/Full-Stack-Social-Media-App
+    https://github.com/mohammadmurtuza/Full-Stack-Social-Media-App
 
 2. Install dependencies for the server and client:
 
-cd mern-social-media-app
-npm install
-cd client
-npm install
+    cd mern-social-media-app
+    npm install
+    cd client
+    npm install
 
 
 3. Set up environment variables:
 
-Create a `.env` file in the root directory and add the following:
-
-MONGO_URI=your_mongodb_uri
-SECRET_KEY=your_secret_key
+    Create a `.env` file in the root directory and add the following:
+    
+    MONGO_URI=your_mongodb_uri
+    SECRET_KEY=your_secret_key
 
 
 4. Start the development server:
 
-npm run dev
+    npm run dev
 
 # By Soubhagya Shankar Das and Mohammad Murtuza
