@@ -50,4 +50,4 @@ SECRET_KEY=your_secret_key
 
 npm run dev
 
-# BY Soubhagya Shankar Das and Mohammad Murtuza
+# By Soubhagya Shankar Das and Mohammad Murtuza
